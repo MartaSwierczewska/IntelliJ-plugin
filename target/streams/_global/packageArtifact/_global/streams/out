@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0mCache file is empty or doesn't exist[0m
+[0m[[0m[0minfo[0m] [0m[0mWrote 3 files to /home/marta/IdeaProjects/IntellijLog/target/plugin/IntellijLog/lib/intellijlog.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m(3ms) packageJar(1): /home/marta/IdeaProjects/IntellijLog/target/plugin/IntellijLog/lib/intellijlog.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m(5ms) copyJar: /home/marta/IdeaProjects/IntellijLog/target/plugin/IntellijLog/lib/scala-library-2.13.1.jar[0m
